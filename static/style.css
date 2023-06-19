@@ -1,0 +1,20 @@
+
+
+input{
+    display: block;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+
+#gameStatus{
+    text-align: center;
+}
+
+#flagemoji{
+    text-align: center;
+    margin: 0%;
+}
